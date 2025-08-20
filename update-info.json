@@ -3,6 +3,7 @@
     "requires": "5.0",
     "tested": "6.0",
     "requires_php": "8.1",
+    "slug": "paytoday-woocommerce",
     "last_updated": "2024-12-12",
     "download_url": "https://github.com/douglasadaire/PayTodayTestPlugin/archive/refs/tags/7.3.4.zip",
     "sections": {
